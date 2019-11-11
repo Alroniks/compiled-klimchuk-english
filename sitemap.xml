@@ -115,6 +115,20 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/places/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/"
+                />
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/categories/tech/</loc>
     <xhtml:link
                 rel="alternate"
