@@ -32,30 +32,10 @@
   
   <url>
     <loc>https://klimchuk.com/categories/bike/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/categories/bike/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/categories/bike/"
-                />
   </url>
   
   <url>
     <loc>https://klimchuk.com/categories/dev/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/categories/dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/categories/dev/"
-                />
   </url>
   
   <url>
@@ -130,16 +110,6 @@
   
   <url>
     <loc>https://klimchuk.com/categories/tech/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/categories/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/categories/tech/"
-                />
   </url>
   
   <url>
