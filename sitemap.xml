@@ -4,6 +4,8 @@
   
   <url>
     <loc>https://klimchuk.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -18,6 +20,8 @@
   
   <url>
     <loc>https://klimchuk.com/countries/belarus/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -32,14 +36,20 @@
   
   <url>
     <loc>https://klimchuk.com/categories/bike/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://klimchuk.com/categories/dev/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://klimchuk.com/categories/life/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -54,6 +64,8 @@
   
   <url>
     <loc>https://klimchuk.com/countries/lithuania/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -68,6 +80,8 @@
   
   <url>
     <loc>https://klimchuk.com/categories/modx/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -82,6 +96,8 @@
   
   <url>
     <loc>https://klimchuk.com/categories/opinion/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -96,6 +112,8 @@
   
   <url>
     <loc>https://klimchuk.com/places/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -110,10 +128,14 @@
   
   <url>
     <loc>https://klimchuk.com/categories/tech/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://klimchuk.com/countries/netherlands/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -128,6 +150,8 @@
   
   <url>
     <loc>https://klimchuk.com/categories/trips/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
