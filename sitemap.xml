@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://klimchuk.com/</loc>
+    <lastmod>2019-12-06T06:00:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +16,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://klimchuk.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/notes/blog-reincarnation/</loc>
+    <lastmod>2019-12-06T06:00:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/notes/blog-reincarnation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/notes/blog-reincarnation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/categories/development/</loc>
+    <lastmod>2019-12-06T06:00:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/categories/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/notes/</loc>
+    <lastmod>2019-12-06T06:00:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/notes/"
                 />
   </url>
   
@@ -47,22 +99,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://klimchuk.com/categories/cycling/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://klimchuk.com/categories/development/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/categories/development/"
                 />
   </url>
   

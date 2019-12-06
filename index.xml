@@ -6,9 +6,19 @@
     <description>Recent content on Ivan Klimchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Fri, 06 Dec 2019 06:00:02 +0000</lastBuildDate>
     
 	<atom:link href="https://klimchuk.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog reincarnation</title>
+      <link>https://klimchuk.com/notes/blog-reincarnation/</link>
+      <pubDate>Fri, 06 Dec 2019 06:00:02 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/notes/blog-reincarnation/</guid>
+      <description>As it was before Once upon a time, at the very beginning, the site worked on my own Alroniks CMS, then there was the Dockpad static sites generator (the project died) after there was an attempt to launch the site on MODX, but it was unsuccessful.</description>
+    </item>
     
   </channel>
 </rss>
