@@ -35,15 +35,35 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/categories/bike/</loc>
+    <loc>https://klimchuk.com/categories/cycling/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/categories/cycling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/categories/cycling/"
+                />
   </url>
   
   <url>
-    <loc>https://klimchuk.com/categories/dev/</loc>
+    <loc>https://klimchuk.com/categories/development/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/categories/development/"
+                />
   </url>
   
   <url>
@@ -127,9 +147,19 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/categories/tech/</loc>
+    <loc>https://klimchuk.com/categories/technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/categories/technology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/categories/technology/"
+                />
   </url>
   
   <url>
