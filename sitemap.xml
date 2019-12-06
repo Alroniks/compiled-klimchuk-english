@@ -71,6 +71,57 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/places/amsterdam-2019/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/amsterdam-2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/amsterdam-2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/places/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/countries/netherlands/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/countries/netherlands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/countries/netherlands/"
+                />
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/countries/belarus/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -167,22 +218,6 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/places/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/places/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/places/"
-                />
-  </url>
-  
-  <url>
     <loc>https://klimchuk.com/categories/technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -195,22 +230,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://klimchuk.com/categories/technology/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://klimchuk.com/countries/netherlands/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/countries/netherlands/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/countries/netherlands/"
                 />
   </url>
   
