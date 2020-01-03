@@ -43,8 +43,6 @@ The trip was purely working, I prepared a report along the way, mounted a podcas
 
 <link href="https://klimchuk.com/css/theme.css" rel="stylesheet" type="text/css">
 
-
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $(document).ready(function() {
@@ -248,6 +246,37 @@ The trip was purely working, I prepared a report along the way, mounted a podcas
         </div>
     </div>
 </footer>
+
+
+<script>
+    function wrapImageByFigure(el, wrapper) {
+        wrapper.setAttribute('class', 'is-marginless');
+        el.parentNode.insertBefore(wrapper, el);
+        wrapper.appendChild(el);
+
+        const title = el.getAttribute('title');
+        const alt = el.getAttribute('alt');
+        const caption = title ? title : alt;
+
+        if (caption) {
+            let figcaption = document.createElement('figcaption');
+            let p = document.createElement('p');
+            p.textContent = caption;
+            figcaption.appendChild(p);
+            wrapper.appendChild(figcaption);
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", function(event) {
+        const contentImagesSelector = 'article.place .content img';
+        const allImages = document.querySelectorAll(contentImagesSelector);
+
+        for (let i = 0; i < allImages.length; i++) {
+            wrapImageByFigure(allImages[i], document.createElement('figure'));
+        }
+    });
+</script>
+
 
 </body>
 </html>
