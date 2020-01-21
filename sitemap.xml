@@ -154,6 +154,22 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/donate/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/donate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/donate/"
+                />
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/categories/life/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
