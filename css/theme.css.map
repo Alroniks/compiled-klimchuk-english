@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "theme.css",
-	"sourceRoot": "/root/hugo",
+	"sourceRoot": "/home/circleci/hugo",
 	"sources": [
 		"themes/klimchuk/assets/css/theme.scss",
 		"themes/klimchuk/assets/bulma/bulma.sass",
