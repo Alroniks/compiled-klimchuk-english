@@ -71,27 +71,20 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/countries/belarus/</loc>
+    <loc>https://klimchuk.com/places/dukora-2019/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://klimchuk.by/countries/belarus/"
+                href="https://klimchuk.by/places/dukora-2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://klimchuk.com/countries/belarus/"
+                href="https://klimchuk.com/places/dukora-2019/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://klimchuk.com/places/dukora-2019/</loc>
-    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -129,19 +122,66 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/countries/netherlands/</loc>
-    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+    <loc>https://klimchuk.com/places/years/2010/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://klimchuk.by/countries/netherlands/"
+                href="https://klimchuk.by/places/years/2010/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://klimchuk.com/countries/netherlands/"
+                href="https://klimchuk.com/places/years/2010/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/places/years/2016/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/years/2016/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/years/2016/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/places/years/2019/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/years/2019/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/years/2019/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/places/countries/belarus/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/countries/belarus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/countries/belarus/"
                 />
   </url>
   
@@ -158,6 +198,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://klimchuk.com/categories/cycling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/countries/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/countries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/countries/"
                 />
   </url>
   
@@ -194,18 +250,18 @@
   </url>
   
   <url>
-    <loc>https://klimchuk.com/countries/lithuania/</loc>
+    <loc>https://klimchuk.com/places/countries/lithuania/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://klimchuk.by/countries/lithuania/"
+                href="https://klimchuk.by/places/countries/lithuania/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://klimchuk.com/countries/lithuania/"
+                href="https://klimchuk.com/places/countries/lithuania/"
                 />
   </url>
   
@@ -248,9 +304,41 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/places/countries/netherlands/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/places/countries/netherlands/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/places/countries/netherlands/"
+                />
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/categories/trips/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/years/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/years/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/years/"
+                />
   </url>
   
 </urlset>
