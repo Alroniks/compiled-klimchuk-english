@@ -20,5 +20,14 @@
       <description>As it was before Once upon a time, at the very beginning, the site worked on my own Alroniks CMS, then there was the Dockpad static sites generator (the project died) after there was an attempt to launch the site on MODX, but it was unsuccessful.</description>
     </item>
     
+    <item>
+      <title>The first note in the blog</title>
+      <link>https://klimchuk.com/notes/the-first-blog-entry/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/notes/the-first-blog-entry/</guid>
+      <description>Hello! By this post, I want to start my blog. First, I want to tell you what I&amp;rsquo;m going to write about in my blog, for whom I&amp;rsquo;m going to write and how often and why I don&amp;rsquo;t use ready-made services like LiveJournal.</description>
+    </item>
+    
   </channel>
 </rss>

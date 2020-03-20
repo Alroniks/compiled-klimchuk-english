@@ -139,6 +139,13 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/notes/the-first-blog-entry/</loc>
+    <lastmod>2010-01-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/places/years/2010/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
