@@ -140,7 +140,7 @@
   
   <url>
     <loc>https://klimchuk.com/notes/favicon-on-site/</loc>
-    <lastmod>2010-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2010-06-14T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -157,14 +157,24 @@
   
   <url>
     <loc>https://klimchuk.com/notes/the-new-site-design/</loc>
-    <lastmod>2010-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2010-06-12T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/notes/the-new-site-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/notes/the-new-site-design/"
+                />
   </url>
   
   <url>
     <loc>https://klimchuk.com/notes/the-first-blog-entry/</loc>
-    <lastmod>2010-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2010-01-20T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
