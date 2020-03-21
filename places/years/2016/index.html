@@ -7,7 +7,7 @@
 </title>
   
 
-  <meta name="generator" content="Hugo 0.67.1" />
+  <meta name="generator" content="Hugo 0.68.0" />
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -38,20 +38,24 @@
 
 
 
-
-
 <link href="https://klimchuk.com/css/theme.css" rel="stylesheet" type="text/css">
 
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-    $(document).ready(function() {
-        
-        $(".navbar-burger").click(function() {
-            
-            $(".navbar-burger").toggleClass("is-active");
-            $(".navbar-menu").toggleClass("is-active");
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        const $nbBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+        if ($nbBurgers.length < 1) {
+            return;
+        }
+        $nbBurgers.forEach( el => {
+            el.addEventListener('click', () => {
+                const target = el.dataset.target;
+                const $target = document.getElementById(target);
+                el.classList.toggle('is-active');
+                $target.classList.toggle('is-active');
+            });
         });
     });
 </script>
@@ -206,9 +210,9 @@
             </div>
             <div class="level-right">
                 <div class="content">
-                    <a class="button is-small is-light is-rounded" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" title="Лицензия">CC BY-NC-SA 4.0</a>
+                    <a class="button is-small is-light is-rounded" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener" title="Лицензия">CC BY-NC-SA 4.0</a>
                     <a class="button is-small is-info is-rounded" href="mailto:ivan@klimchuk.com">ivan@klimchuk.com</a>
-                    <a class="button is-small is-dark is-rounded" target="_blank" href="https://github.com/Alroniks">GitHub</a>
+                    <a class="button is-small is-dark is-rounded" target="_blank" rel="noopener" href="https://github.com/Alroniks">GitHub</a>
                 </div>
             </div>
         </div>
