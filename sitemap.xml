@@ -139,6 +139,40 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/categories/life/</loc>
+    <lastmod>2014-12-31T06:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/categories/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/categories/life/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/notes/results-and-facts-2014/</loc>
+    <lastmod>2014-12-31T06:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://klimchuk.by/notes/results-and-facts-2014/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://klimchuk.com/notes/results-and-facts-2014/"
+                />
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/notes/favicon-on-site/</loc>
     <lastmod>2010-06-14T06:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,22 +332,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://klimchuk.com/donate/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://klimchuk.com/categories/life/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://klimchuk.by/categories/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://klimchuk.com/categories/life/"
                 />
   </url>
   

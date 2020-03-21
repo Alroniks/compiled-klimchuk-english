@@ -6,9 +6,20 @@
     <description>Recent content in Life on Ivan Klimchuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 31 Dec 2014 06:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://klimchuk.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Results and facts for 2014</title>
+      <link>https://klimchuk.com/notes/results-and-facts-2014/</link>
+      <pubDate>Wed, 31 Dec 2014 06:00:00 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/notes/results-and-facts-2014/</guid>
+      <description>I borrowed a note template from Artem Sapegin. So, some facts, events, and achievements in 2014:
+ I figured out the DocPad generator and created my website in two languages. Also, I sent a couple of pull requests to DocPad itself.</description>
+    </item>
     
   </channel>
 </rss>
