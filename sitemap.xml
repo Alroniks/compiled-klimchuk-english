@@ -52,8 +52,29 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/talks/</loc>
+    <lastmod>2019-03-28T21:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/talks/mma-mtv/</loc>
+    <lastmod>2019-03-28T21:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/places/druskininkai-2019/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/talks/narrow-topic/</loc>
+    <lastmod>2016-01-18T21:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,6 +89,13 @@
   <url>
     <loc>https://klimchuk.com/notes/results-and-facts-2014/</loc>
     <lastmod>2014-12-31T06:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://klimchuk.com/talks/mmm-teleportating/</loc>
+    <lastmod>2014-11-28T21:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -155,12 +183,6 @@
   
   <url>
     <loc>https://klimchuk.com/projects/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://klimchuk.com/talks/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
