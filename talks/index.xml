@@ -20,5 +20,32 @@
       <description>It is the second speech in English and almost without preparation, but extraordinarily emotional and honest.</description>
     </item>
     
+    <item>
+      <title>Narrow topic meetup: how not to screw up</title>
+      <link>https://klimchuk.com/talks/narrow-topic/</link>
+      <pubDate>Mon, 18 Jan 2016 21:00:00 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/talks/narrow-topic/</guid>
+      <description>I was invited to the non-technical meetup &amp;ldquo;The art of organizing events&amp;rdquo; to share my experience in hosting meetups of our local community, built around MODX. The speech was in Russian.</description>
+    </item>
+    
+    <item>
+      <title>MODX Teleportation</title>
+      <link>https://klimchuk.com/talks/mmm-teleportating/</link>
+      <pubDate>Fri, 28 Nov 2014 21:00:00 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/talks/mmm-teleportating/</guid>
+      <description>Speech in Russian on MODX Meetup Minsk in 2014.</description>
+    </item>
+    
+    <item>
+      <title>MODX Cooking Recipes</title>
+      <link>https://klimchuk.com/talks/psc-rcm/</link>
+      <pubDate>Fri, 12 Aug 2011 21:00:00 +0000</pubDate>
+      
+      <guid>https://klimchuk.com/talks/psc-rcm/</guid>
+      <description>My first public speech, in Russian, on local meetup &amp;ldquo;PHP Saturday&amp;rdquo; held by Ciklum.</description>
+    </item>
+    
   </channel>
 </rss>
