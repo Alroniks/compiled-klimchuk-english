@@ -160,6 +160,12 @@
   </url>
   
   <url>
+    <loc>https://klimchuk.com/talks/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://klimchuk.com/categories/technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
