@@ -346,7 +346,7 @@ The trip was purely working, I prepared a report along the way, mounted a podcas
     }
 
     document.addEventListener("DOMContentLoaded", function(event) {
-        const contentImagesSelector = 'article.place .content img';
+        const contentImagesSelector = 'article.place .content img:not(.no-wrap)';
         const allImages = document.querySelectorAll(contentImagesSelector);
 
         for (let i = 0; i < allImages.length; i++) {
