@@ -5,11 +5,7 @@
     <link>https://klimchuk.com/years/</link>
     <description>Recent content in Years on Ivan Klimchuk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://klimchuk.com/years/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language><atom:link href="https://klimchuk.com/years/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2010</title>
       <link>https://klimchuk.com/places/years/2010/</link>

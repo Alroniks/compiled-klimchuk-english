@@ -5,11 +5,7 @@
     <link>https://klimchuk.com/countries/</link>
     <description>Recent content in Countries on Ivan Klimchuk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    
-	<atom:link href="https://klimchuk.com/countries/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-US</language><atom:link href="https://klimchuk.com/countries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Belarus</title>
       <link>https://klimchuk.com/places/countries/belarus/</link>
